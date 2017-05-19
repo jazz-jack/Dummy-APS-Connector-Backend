@@ -19,9 +19,10 @@
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "CONFIG_FILE": "C:\\work\\vs2017\\Dummy APS Connector Backend\\config.yml"
       },
-      "applicationUrl": "http://localhost:62808"
+      "applicationUrl": "http://localhost:80"
     }
   }
 }
